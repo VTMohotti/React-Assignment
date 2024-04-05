@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "LAY'S® FLAMIN’ HOT® Spicy Chicken Sandwich",
+    "price": "567",
+    "imgUrl": "/imgs/LAY_SpicyFriedChickySammy_TWITTER_0.jpg"
+  },
+  {
+    "id": 2,
+    "name": "LAY'S® Potato Chip Crusted Holiday Brownies",
+    "price": "635",
+    "imgUrl": "/imgs/LAY'S CRUSTED HOLIDAY BROWNIE-032_1920x625.png"
+  },
+  {
+    "id": 3,
+    "name": "LAY'S® Potato Chip Magic Bars",
+    "price": "450",
+    "imgUrl": "/imgs/LAY’S POTATO CHIP MAGIC BARS-023_1920x625.png"
+  },
+  {
+    "id": 4,
+    "name": "Thanksgiving Hashbrown Casserole",
+    "price": "720",
+    "imgUrl": "/imgs/Lays-Cheesy-Hashbrown-Casserole.jpg"
+  },
+  {
+    "id": 5,
+    "name": "LAY'S® Classic Chicken Tenders",
+    "price": "620",
+    "imgUrl": "/imgs/LAYS-TENDIES-big.jpg"
+  },
+  {
+    "id": 6,
+    "name": "LAY'S® + ROLD GOLD® Fudge",
+    "price": "520",
+    "imgUrl": "/imgs/Lays_roldgoldfudge_0.png"
+  }
+]

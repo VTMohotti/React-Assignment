@@ -1,0 +1,74 @@
+[
+  {
+    "id": 11,
+    "name": "LAY'S® Cheddar & Sour Cream Flavored ",
+    "price": "785",
+    "imgUrl": "/imgs/pro1.png"
+  },
+  {
+    "id": 12,
+    "name": "LAY'S® Lightly Salted Potato Chips",
+    "price": "682",
+    "imgUrl": "/imgs/pro2.png"
+  },
+  {
+    "id": 13,
+    "name": "Lay's® Smooth Ranch Dip Flavored",
+    "price": "840",
+    "imgUrl": "/imgs/pro3.png"
+  },
+  {
+    "id": 14,
+    "name": "LAY'S® Kettle Cooked Jala Flavored ",
+    "price": "960",
+    "imgUrl": "/imgs/pro4.png"
+  },
+  {
+    "id": 15,
+    "name": "LAY'S® Poppables® Salt Potato ",
+    "price": "1204",
+    "imgUrl": "/imgs/pro5.png"
+  },
+  {
+    "id": 16,
+    "name": "LAY'S® STAX® Sour Cream Onion ",
+    "price": "1500",
+    "imgUrl": "/imgs/pro6.png"
+  },
+  {
+    "id": 17,
+    "name": "LAY'S® Wavy Original Potato Chips",
+    "price": "1200",
+    "imgUrl": "/imgs/pro7.png"
+  },
+  {
+    "id": 18,
+    "name": "LAY'S® Classic Potato Chips 10 Multi-Pack",
+    "price": "982",
+    "imgUrl": "/imgs/pro8.png"
+  },
+  {
+    "id": 19,
+    "name": "Lay's® French Onion Dip Flavored",
+    "price": "925",
+    "imgUrl": "/imgs/pro9.png"
+  },
+  {
+    "id": 20,
+    "name": "LAY'S® STAX® Mesquite BBQ Flavored ",
+    "price": "782",
+    "imgUrl": "/imgs/pro10.png"
+  },
+  {
+    "id": 21,
+    "name": "LAY'S® Mix Variety Pack Flavored",
+    "price": "1349",
+    "imgUrl": "/imgs/pro11.png"
+  },
+  {
+    "id": 22,
+    "name": "LAY'S® Veggie Poppables® ",
+    "price": "1420",
+    "imgUrl": "/imgs/pro12.png"
+  }
+]
